@@ -1,0 +1,22 @@
+str,es_ES,en_US
+sign_in_with_google,Iniciar sesión con Google,Login with Google
+loading,Cargando...,Loading...
+app_description,Interactúa en un evento de forma dinámica y sencilla,Interact in an event in a dynamic and simple way
+event_name,Nombre del evento,Event name
+add_event,Crear evento,Create event
+scan_event,Escanear evento,Scan event
+save_event,Guardar,Save event
+playing_from,Pregunta de {},Question from {}
+listen,Escuchar,Listen
+invite_link,Link público: {},Public link: {}
+copy_link,Copiar al portapapeles,Copy to clipboard
+app_name,Pregunta con un audio!,AskByAudios
+share,Compartir evento,Share event
+shared,Enlace copiado al portapapeles!!,Link copied to clipboard!
+tap_to_record,Mantén pulsado para grabar tu pregunta,Long press to record your question
+record_done,Pregunta grabada, súbela!,Question has been recorded. Upload it!
+recording,Grabando... suelta para terminar,Recording... release to finish
+upload,Enviar al organizador :),Send to the organizer :)
+my_events,Mis eventos,My events
+no_audios,No hay ninguna pregunta todavía,There is no question yet
+no_events,No has creado ningún evento,There is no event yet

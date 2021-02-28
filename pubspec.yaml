@@ -1,0 +1,42 @@
+name: perseverance
+description: The perseverance Rover pics app
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^0.12.2
+  pretty_dio_logger: ^1.1.1
+  stacked: ^1.7.7
+  get_it:
+  dio: ^3.0.10
+  get:
+  shared_preferences: ^0.5.12+4
+
+  google_fonts: ^1.1.2
+
+
+  easy_localization: ^2.3.3+1
+  easy_localization_loader: 0.0.2
+
+  path_provider: ^1.6.27
+  path: ^1.6.4
+
+dependency_overrides:
+  intl: ^0.17.0-nullsafety.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/

@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "catanfantasy"
+  },
+  "targets": {
+    "catanfantasy": {
+      "hosting": {
+        "audioquestion": [
+          "audioquestion"
+        ],
+        "canijustsay": [
+          "canijustsay"
+        ]
+      }
+    }
+  }
+}
